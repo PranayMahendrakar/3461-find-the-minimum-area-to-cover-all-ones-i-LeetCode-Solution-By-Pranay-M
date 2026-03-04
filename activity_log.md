@@ -5,3 +5,4 @@
 - [2026-03-04T22:23:06Z] docs: update README with usage examples
 - [2026-03-04T17:22:41Z] docs: improve inline documentation
 - [2026-03-04T16:45:45Z] chore: remove deprecated API calls
+- [2026-03-04T21:31:36Z] fix: resolve edge case in input validation
