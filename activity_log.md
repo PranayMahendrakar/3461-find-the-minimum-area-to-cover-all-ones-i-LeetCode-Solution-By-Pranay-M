@@ -9,3 +9,4 @@
 - [2026-03-04T11:37:53Z] docs: update README with usage examples
 - [2026-04-08T13:23:19Z] perf: optimize loop for better performance
 - [2026-04-08T09:17:41Z] chore: update dependencies to latest versions
+- [2026-04-08T20:11:37Z] feat: add helper utility function
