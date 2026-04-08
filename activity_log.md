@@ -11,3 +11,4 @@
 - [2026-04-08T09:17:41Z] chore: update dependencies to latest versions
 - [2026-04-08T20:11:37Z] feat: add helper utility function
 - [2026-04-08T20:02:21Z] refactor: simplify conditional logic
+- [2026-04-08T17:37:46Z] perf: optimize loop for better performance
